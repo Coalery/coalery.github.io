@@ -1,6 +1,6 @@
 ---
 title: "Multivariable linear Regression"
-date: 2020-10-18 23:44:00 -0000
+date: 2020-10-25 23:28:00 -0000
 categories: [Study, BGM, AI Practice]
 tags: [TIL, AI, BGM, study]
 ---
