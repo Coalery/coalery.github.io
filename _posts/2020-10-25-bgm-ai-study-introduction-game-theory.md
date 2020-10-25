@@ -258,6 +258,8 @@ tags: [TIL, AI, BGM, study]
 
 - (straight, chicken) 이나 (chicken, straight)일 때 내쉬 균형이다.
 
+<br>
+
 ---
 
 <br>
