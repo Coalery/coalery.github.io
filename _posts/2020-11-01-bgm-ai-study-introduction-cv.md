@@ -132,7 +132,9 @@ tags: [TIL, AI, BGM, study]
 
 ## 그래서 왜 어려운데요!
 
-#### 3차원이 2차원이 되었어요. 그랬더니 뭐가 가려졌네요?
+<br>
+
+### 3차원이 2차원이 되었어요. 그랬더니 뭐가 가려졌네요?
 
 ![i7](/assets/img/2020-11-01-bgm-ai-study-introduction-cv/i7.png)
 
@@ -154,7 +156,7 @@ tags: [TIL, AI, BGM, study]
 
 <br>
 
-#### 그림자가 졌어요!
+### 그림자가 졌어요!
 
 ![i8](/assets/img/2020-11-01-bgm-ai-study-introduction-cv/i8.png)
 
@@ -166,7 +168,7 @@ tags: [TIL, AI, BGM, study]
 
 <br>
 
-#### 반사가 되었어요!
+### 반사가 되었어요!
 
 ![i9](/assets/img/2020-11-01-bgm-ai-study-introduction-cv/i9.png)
 
@@ -182,7 +184,7 @@ tags: [TIL, AI, BGM, study]
 
 <br>
 
-#### 크기가 달라요!
+### 크기가 달라요!
 
 ![i10](/assets/img/2020-11-01-bgm-ai-study-introduction-cv/i10.png)
 
@@ -200,7 +202,7 @@ tags: [TIL, AI, BGM, study]
 
 <br>
 
-#### 모양새가 다 다르네요?
+### 모양새가 다 다르네요?
 
 ![i11](/assets/img/2020-11-01-bgm-ai-study-introduction-cv/i11.png)
 
@@ -212,7 +214,7 @@ tags: [TIL, AI, BGM, study]
 
 <br>
 
-#### 배경 너무 난잡해요!!
+### 배경 너무 난잡해요!!
 
 ![i12](/assets/img/2020-11-01-bgm-ai-study-introduction-cv/i12.png)
 
@@ -222,7 +224,7 @@ tags: [TIL, AI, BGM, study]
 
 <br>
 
-#### 아니 다 똑같은 의자인데 왜 모양이 다 달라요
+### 아니 다 똑같은 의자인데 왜 모양이 다 달라요
 
 ![i13](/assets/img/2020-11-01-bgm-ai-study-introduction-cv/i13.png)
 
